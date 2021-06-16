@@ -14,11 +14,6 @@ GEM
       tilt (~> 2.0)
     tilt (2.0.10)
 
-PLATFORMS
-  x86_64-darwin-19
-
 DEPENDENCIES
   sinatra (~> 2.1)
 
-BUNDLED WITH
-   2.2.15
